@@ -1,0 +1,10 @@
+main: com.negafinity.punishments.Punishments
+name: Punishments
+version: 1.0
+author: HassanS6000
+description: This plugin allows Admins to punish players.
+commands: 
+  p:
+    description: You can use this command to punish players.
+    usage: /p <player> <reason>
+    permission: punishments.punish.use

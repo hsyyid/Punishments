@@ -1,0 +1,11 @@
+#Default Config File For Punishments Plugin
+#MySQL Config
+mysql:
+  mysqldb: minecraft
+  mysqluser: root
+  mysqlpass: pass
+  mysqlip: localhost
+  mysqlport: 3306
+  mysqldbname: minecraft
+ban:
+  appeal-website: "https://google.com"
